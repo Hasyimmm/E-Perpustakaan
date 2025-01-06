@@ -14,7 +14,7 @@
     </div>
     <ul>
       <li><a href="index_transaksi.html">Transaksi</a></li>
-      <li><a href="Koleksi_Buku.html">Koleksi Buku</a></li>
+      <li><a href="Index_Koleksi_Buku.html">Koleksi Buku</a></li>
       <li><a href="#profile">Profil</a></li>
       <li><a href="#beranda">Beranda<a></li>
       <li><a href="login_index.html">login</a></li>
